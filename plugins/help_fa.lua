@@ -78,8 +78,8 @@ end
 return {
 patterns = {
 "^(راهنما)$",
-"^(help fa)$",
-" ^[/#!](help fa)$",
+--"^(help fa)$",
+--" ^[/#!](help fa)$",
 },
 run = run
 }
